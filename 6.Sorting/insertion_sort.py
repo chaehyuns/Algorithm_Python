@@ -6,4 +6,4 @@ for i in range(len(array)):
             array[j], array[j-1] = array[j-1], array[j]
         else:
             break
-print(array)
+print(array) 
